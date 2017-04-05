@@ -1,0 +1,48 @@
+.container {
+  margin: 0 auto;
+  width: 750px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+.main-title {
+  text-align: center;
+}
+
+.column1, .pricing_features {
+  float:left; 
+  height: 300px;
+  width: 47%;
+  margin-right: 20px;
+}
+
+.column2{
+  height: 300px; 
+}
+
+.pricing_features{
+  width: 33%;
+  margin-bottom: 20px;
+}
+
+.pricing_features{
+  margin-right: 0;
+  height: auto;
+}
+.pricing_features h5{  
+  text-align: center;
+  margin-bottom: 0;
+} 
+
+ul.pricing_features{
+  margin-right: 0;
+  width: 100%;
+  height: auto;
+}
